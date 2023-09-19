@@ -17,5 +17,7 @@ dependencies:
   - rasterstats
   - shapely
   - fiona
+  - basemap
+  - folium
   - geopandas
   - requests
