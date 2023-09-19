@@ -1,0 +1,21 @@
+name: spatial_python
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - pip
+
+  - pandas
+  - seaborn>=0.12.0
+  - Rtree
+  - cftime
+  - netCDF4
+  - pyproj
+  - gdal
+  - pygeos
+  - rasterio
+  - rasterstats
+  - shapely
+  - fiona
+  - geopandas
+  - requests
