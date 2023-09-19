@@ -1,0 +1,10 @@
+Rtree
+cftime
+netCDF4
+pyproj
+GDAL
+pygeos
+rasterio
+shapely
+fiona
+geopandas
