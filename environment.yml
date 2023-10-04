@@ -21,3 +21,4 @@ dependencies:
   - folium
   - geopandas
   - requests
+  - mapclassify
