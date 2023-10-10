@@ -22,3 +22,7 @@ To get started, click the button below!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nickrsan/spatial-python-tutorial/HEAD?labpath=Spatial%20Python%20Tutorial.ipynb)
  
+## Funding Acknowledgment
+This tutorial was build as part of the [Secure Water Future](https://securewaterfuture.net) project. This work is supported
+by Agriculture and Food Research Initiative Competitive Grant no. 
+2021-69012-35916 from the USDA National Institute of Food and Agriculture.
